@@ -3,8 +3,10 @@
 An exploratory data analysis project using the Online Retail II dataset to understand sales trends, product performance, and customer purchasing behaviour.
 
 ## Tools Used
+- Python
 - MySQL
 - Power BI
+
 
 
 ## What I Did
