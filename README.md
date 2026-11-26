@@ -5,7 +5,7 @@ An exploratory data analysis project using the Online Retail II dataset to under
 ## Tools Used
 - MySQL
 - Power BI
-- Excel (if used for this project)
+
 
 ## What I Did
 - Analysed sales and cancelled transactions using SQL.
